@@ -1,0 +1,2 @@
+export const SET_API_RESPONSE = 'SET_API_RESPONSE';
+export const SET_RANDOM_INDEX = 'SET_RANDOM_INDEX';
